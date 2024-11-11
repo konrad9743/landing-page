@@ -35,7 +35,7 @@ button {
     background-color: #1F2937;
     color: #F9FAF8;
     gap: 100px;
-    padding: 0px 300px;
+    padding: 0px 200px;
 }
 
 .header {
@@ -155,7 +155,7 @@ button {
 }
 
 .quote-conteiner {
-    padding: 150px 530px;
+    padding: 100px 400px;
     background-color: #E5E7EB;
 }
 
